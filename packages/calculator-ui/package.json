@@ -1,5 +1,5 @@
 {
-  "name": "calculator-ui",
+  "name": "@dk-calculator/calculator-ui",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",

@@ -1,5 +1,5 @@
 {
-  "name": "dk-calculator-functions",
+  "name": "@dk-calculator/calculator-functions",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
