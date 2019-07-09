@@ -1,6 +1,6 @@
 {
   "name": "@dk-calculator/calculator-functions",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "4e031047f77f423ef2591b2e17312f82d3da7aba"
 }
